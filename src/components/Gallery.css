@@ -1,0 +1,59 @@
+.form2 {
+    position: relative;
+    margin-top: 150px;
+    left: 17%;
+    background-color: white;
+    width: 65%;
+    height: 66vh;
+    border-radius: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.form-pic {
+    position: absolute;
+    top: 15%;
+    left: 4%;
+    width: 100%;
+}
+
+img {
+    margin: 10px 30px 10px 10px;
+}
+
+.picture-gallery {
+    height: 300px;
+    width: 200px;
+    overflow: hidden;
+}
+
+.picture-gallery img {
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+    
+}
+
+.picture-gallery:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.reg-title3 {
+    padding-top: 15px;
+    padding-left: 20px;
+    font-size: 1.5rem;
+}
+
+.btn2 {
+    position: absolute;
+    right: 3%;
+    bottom: 5%;
+    width: 10%;
+}
+
+.border-img {
+    border: 5px solid orange;
+}
+
+.noborder-img {
+    border: none;
+}

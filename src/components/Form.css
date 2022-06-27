@@ -1,0 +1,116 @@
+.reg-title {
+    position: relative;
+    left: 29%;
+    margin: 1px 0px 10px 0px;    
+}
+
+.hospital-title {
+    position: relative;
+    left: 29%;
+    margin-top: 120px;
+    color: rgb(94, 94, 94);
+}
+
+.form1 {
+    position: relative;
+    left: 29%;
+    background-color: white;
+    width: 42.5%;
+    height: 45vh;
+    border-radius: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 1px 16px 1px 15px;
+}
+
+.form-inputs {
+    position: absolute;
+    left: 2%;
+}
+
+input, label {
+    display: block;
+}
+
+.reg-title2 {
+    font-size: 1.5rem;
+    margin: 20px 0px 15px 0px;
+}
+
+.input-name {
+    position: absolute;
+    top: 30%;
+    width: 95%;
+    height: 2vh;
+    font-size: 0.94rem;
+}
+
+.label-name {
+    position: absolute;
+    margin: 0;
+    font-size: 1.25rem;
+}
+
+.name1 {
+    top: 22%;
+}
+
+.container {
+    position: absolute;
+    top: 40%;                                                                                                                                                                              
+    width: 96%;;
+}
+
+.col1 {
+    padding: 0px;
+}
+
+select {
+    padding: 0px 0px 0px 0px;
+    margin-top: 29px;
+}
+
+#myselect {
+    width: 20%;
+    margin-bottom: 20px;
+    height: 2.8vh;
+    font-size: 0.94rem;
+}
+
+#myselect1 {
+    width: 20%;
+    height: 2.8vh;
+    font-size: 0.94rem;
+}
+
+.submit-btn {
+    position: absolute;
+    bottom: 5%;
+    right: 2%;
+    width: 15%;
+}
+
+.form3 {
+    position: relative;
+    margin-top: 250px;
+    left: 30%;
+    background-color: white;
+    width: 40%;
+    height: 26vh;
+    border-radius: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.bye-note {
+    position: absolute;
+    left: 4%;
+    font-size: 1.5rem;
+    margin-top: 13px;
+}
+
+.bye-info {
+    position: absolute;
+    left: 4%;
+    top: 15%;
+    font-size: 1.35rem;
+    color: rgb(71, 71, 71);
+}
