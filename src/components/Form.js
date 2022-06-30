@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './Form.css';
 import './Gallery.css';
-import Theme from './Theme';
 import axios from 'axios';
 
 
