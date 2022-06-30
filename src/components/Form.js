@@ -53,6 +53,7 @@ const Form = () => {
         // clear any other borders that might be set
         for ( i = 0; i < childImages.length; i++ ) {
            childImages[i].style.border = '';
+           childImages[i].className = "picture-gallery";
         }
     
         // Then set the one that got clicked.
