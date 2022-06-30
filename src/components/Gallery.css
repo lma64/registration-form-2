@@ -49,11 +49,3 @@ img {
     bottom: 5%;
     width: 10%;
 }
-
-.border-img {
-    border: 5px solid orange;
-}
-
-.noborder-img {
-    border: none;
-}
